@@ -1,0 +1,19 @@
+{
+  "name": "projet-1",
+  "version": "1.0.0",
+  "description": "Cours 3 package nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arealundead/projet1.git"
+  },
+  "author": "Alex Gaudreau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arealundead/projet1/issues"
+  },
+  "homepage": "https://github.com/arealundead/projet1#readme"
+}
